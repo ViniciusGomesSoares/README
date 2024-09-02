@@ -8,4 +8,4 @@
 
 [![vinicode](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusGomesSoares&hide=html&layout=compact&theme=tokyonight)](https://github.com/ViniciusGomesSoares/github-readme-stats)
 
-![snake gif](https://github.com/ViniciusGomesSoares/ViniciusGomesSoares/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/ViniciusGomesSoares/README/blob/output/github-contribution-grid-snake.svg)
