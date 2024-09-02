@@ -7,5 +7,3 @@
 [![vinicode](https://github-readme-stats.vercel.app/api?username=ViniciusGomesSoares&theme=tokyonight)](https://github.com/ViniciusGomesSoares/github-readme-stats)
 
 [![vinicode](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusGomesSoares&hide=html&layout=compact&theme=tokyonight)](https://github.com/ViniciusGomesSoares/github-readme-stats)
-
-![snake gif](https://github.com/ViniciusGomesSoares/https://github.com/ViniciusGomesSoares/README/edit/main/README.md/blob/output/github-contribution-grid-snake.svg)
