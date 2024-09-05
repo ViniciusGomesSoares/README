@@ -4,11 +4,15 @@
   </a>
 </div>
 
-# Vinícius Gomes Soares
+<img align="right" alt="" height="190px" src="./src/study.gif">
+
+## Vinícius Gomes Soares
 
 ## Progamador Fullstack
 
-<img align="right" alt="" height="190px" src=".">
+<p align="center">Estudante de Sistema de Informações na Faculdade Imapcta Tecnologia. Atualmente trabalho com analise de dados e estudo python, desenvolvimeto web, java e angular.
+Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+  
 
 [![vinicode](https://github-readme-stats.vercel.app/api?username=ViniciusGomesSoares&theme=tokyonight)](https://github.com/ViniciusGomesSoares/github-readme-stats)
 
