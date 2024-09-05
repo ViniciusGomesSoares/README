@@ -25,3 +25,9 @@
 
 
 <a href="https://www.linkedin.com/in/vinigomessoares/"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" style="height:50px;"></a>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViniciusGomesSoares/ViniciusGomesSoares/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ViniciusGomesSoares/ViniciusGomesSoares/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ViniciusGomesSoares/ViniciusGomesSoares/output/github-contribution-grid-snake.svg">
+</picture>
